@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "udemy project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pavithran2608/ProjMangement/issues"
   },
-  "homepage": "https://github.com/pavithran2608/ProjMangement#readme"
+  "homepage": "https://github.com/pavithran2608/ProjMangement#readme",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
 }
