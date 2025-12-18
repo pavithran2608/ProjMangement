@@ -1,0 +1,22 @@
+{
+  "name": "projmangement",
+  "version": "1.0.0",
+  "description": "udemy project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavithran2608/ProjMangement.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Pavithran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavithran2608/ProjMangement/issues"
+  },
+  "homepage": "https://github.com/pavithran2608/ProjMangement#readme"
+}
